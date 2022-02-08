@@ -18,18 +18,18 @@ timezone: Europe/Istanbul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Murat Özalp
+title: Semih KARACA
 
 tagline: Kişisel Web Sitesi   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Lazım olduğunda unutmuş olduğum şeyleri hatırlatacak bir yer lazımdı. Burası olsun istedim.
+  Test
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://ozalpmurat.github.io'
+url: 'https://semzor.github.io'
 
 github:
-  username: ozalpmurat             # change to your github username
+  username: semzor             # change to your github username
 
 #twitter:
 #  username: twitter_username            # change to your twitter username
@@ -37,12 +37,12 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Murat Özalp
-  email: cunyor@gmail.com             # change to your email address
+  name: Semih KARACA
+  email: krcsemih@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/muratozalp_      # change to your twitter homepage
-    - https://github.com/ozalpmurat       # change to your github homepage
+    #- https://twitter.com/muratozalp_      # change to your twitter homepage
+    - https://github.com/semzor      # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
